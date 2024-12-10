@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation\\TicketReservation.csproj": {}
+  },
+  "projects": {
+    "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\TicketReservation.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\TicketReservation.Application.csproj",
+        "projectName": "TicketReservation.Application",
+        "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\TicketReservation.Application.csproj",
+        "packagesPath": "C:\\Users\\Link\\.nuget\\packages\\",
+        "outputPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Link\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj": {
+                "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj",
+        "projectName": "TicketReservation.Core",
+        "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj",
+        "packagesPath": "C:\\Users\\Link\\.nuget\\packages\\",
+        "outputPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Link\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\TicketReservation.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\TicketReservation.DataAccess.csproj",
+        "projectName": "TicketReservation.DataAccess",
+        "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\TicketReservation.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Link\\.nuget\\packages\\",
+        "outputPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Link\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj": {
+                "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation\\TicketReservation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation\\TicketReservation.csproj",
+        "projectName": "TicketReservation",
+        "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation\\TicketReservation.csproj",
+        "packagesPath": "C:\\Users\\Link\\.nuget\\packages\\",
+        "outputPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Link\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\TicketReservation.Application.csproj": {
+                "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Application\\TicketReservation.Application.csproj"
+              },
+              "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj": {
+                "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.Core\\TicketReservation.Core.csproj"
+              },
+              "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\TicketReservation.DataAccess.csproj": {
+                "projectPath": "D:\\Лабы\\КурсачООп\\TicketReservation\\TicketReservation.DataAccess\\TicketReservation.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

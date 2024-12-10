@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WEmWBBhp5Df4Eut4AqqMuJYUWPXjL8ijhZE0lOTTE0Y=",
+  "Source": "TicketReservation",
+  "BasePath": "_content/TicketReservation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

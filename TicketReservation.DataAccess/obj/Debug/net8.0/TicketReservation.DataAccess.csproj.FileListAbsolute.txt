@@ -1,0 +1,17 @@
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.DataAccess.deps.json
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.DataAccess.runtimeconfig.json
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.DataAccess.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.DataAccess.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.Core.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\bin\Debug\net8.0\TicketReservation.Core.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.AssemblyInfo.cs
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketRe.3EA64C84.Up2Date
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\refint\TicketReservation.DataAccess.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\TicketReservation.DataAccess.genruntimeconfig.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.DataAccess\obj\Debug\net8.0\ref\TicketReservation.DataAccess.dll

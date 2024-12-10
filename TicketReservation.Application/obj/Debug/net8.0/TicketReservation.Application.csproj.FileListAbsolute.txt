@@ -1,0 +1,15 @@
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\bin\Debug\net8.0\TicketReservation.Application.deps.json
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\bin\Debug\net8.0\TicketReservation.Application.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\bin\Debug\net8.0\TicketReservation.Application.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\bin\Debug\net8.0\TicketReservation.Core.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\bin\Debug\net8.0\TicketReservation.Core.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.csproj.AssemblyReference.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.AssemblyInfoInputs.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.AssemblyInfo.cs
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketRe.5FC5D798.Up2Date
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\refint\TicketReservation.Application.dll
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\TicketReservation.Application.pdb
+C:\Users\Link\Desktop\TicketReservation\TicketReservation.Application\obj\Debug\net8.0\ref\TicketReservation.Application.dll
